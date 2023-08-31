@@ -1,1 +1,2 @@
-# USHINAYA-Project
+# USHINAYA PROJECT
+Virtual and interactive gallery
